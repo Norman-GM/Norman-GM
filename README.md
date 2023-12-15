@@ -11,4 +11,4 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norman-GM" /> </div>
 
-<div align="center"> <img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Norman-GM)](https://github.com/ashutosh00710/github-readme-activity-graph) /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Norman-GM&theme=react-dark" /> </div>
