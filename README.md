@@ -10,3 +10,5 @@
 <div align="center" > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a></div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norman-GM" /> </div>
+
+<div align="center"> <img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Norman-GM)](https://github.com/ashutosh00710/github-readme-activity-graph) /> </div>
