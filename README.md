@@ -1,7 +1,7 @@
 <div align="center"> <img alt="" src="2.png" width="500" height="500" /> </div>
 <div align="center"><p>A EEG engineer of Barco company </a>, majoring in deep learning. 😊
 </p></div>
-<div align= "center"> <img src="https://profile-counter.glitch.me/Norman-GM/count.svg" /> </div>
+<div align= "center">You are my <img src="https://profile-counter.glitch.me/Norman-GM/count.svg" /> visiter, Thank you!</div>
 <div align="center"><img height="137px" src="https://readme-stats-norman-gms-projects.vercel.app/api?username=Norman-GM&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=tokyonight" /> </div>
 
 
