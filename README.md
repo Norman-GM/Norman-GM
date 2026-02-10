@@ -1,7 +1,11 @@
 <div align="center"> <img alt="" src="2.png" width="500" height="500" /> </div>
 <div align="center"><p>A EEG engineer </a> 😊</p></div>
-<div align="center"><p>win the 2025 world robot conference BCI competation first prize on Realtime BCI controled wheelchair project 
-& special prize on Realtime BCI controled drone </p> </div>
+<div align="center">
+  <p>
+    Winner of the 2025 World Robot Conference BCI Competition — First Prize for the Real‑time BCI‑controlled wheelchair project,
+    and Special Prize for the Real‑time BCI‑controlled drone.
+  </p>
+</div>
 
 
 <div align= "center">You are my <img src="https://komarev.com/ghpvc/?username=Norman-GM" /> visiter, Thank you!</div>
