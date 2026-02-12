@@ -19,3 +19,9 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norman-GM" /> </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Norman-GM&theme=react-dark" /> </div>
+
+## 🎮 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Norman-GM/Norman-GM/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</div>
