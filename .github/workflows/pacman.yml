@@ -16,7 +16,7 @@ jobs:
     
     steps:
       - name: Generate Pac-Man Graph
-        uses: abozanona/pacman-contribution-graph@v1
+        uses: abozanona/pacman-contribution-graph@<commit-sha>
         with:
           github_user_name: Norman-GM
           
