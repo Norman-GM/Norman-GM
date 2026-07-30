@@ -4,7 +4,9 @@
   <p>
     Winner of the 2025 World Robot Conference BCI Competition — First Prize for the Real‑time BCI‑controlled wheelchair project,
     and Special Prize for the Real‑time BCI‑controlled drone.
-    Competition question setter of 2026 World Robot Conference BCI Competition (4th China BCI competation) on upper limb motor imagery classification system based on Sensory-Muscle Electrical Stimulation cueing.
+  </p>
+  <p>
+     Competition question setter of 2026 World Robot Conference BCI Competition (4th China BCI competation) on upper limb motor imagery classification system based on Sensory-Muscle Electrical Stimulation cueing.
   </p>
 </div>
 
