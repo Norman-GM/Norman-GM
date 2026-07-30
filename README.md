@@ -6,10 +6,9 @@
     and Special Prize for the Real‑time BCI‑controlled drone.
   </p>
   <p>
-     Competition question setter of 2026 World Robot Conference BCI Competition (4th China BCI competation) on upper limb motor imagery classification system based on Sensory-Muscle Electrical Stimulation cueing.
+     Competition question setter of 2026 World Robot Conference BCI Competition (4th Chinese BCI competation) on upper limb motor imagery classification system based on Sensory-Muscle Electrical Stimulation cueing.
   </p>
 </div>
-
 
 <div align= "center">You are my <img src="https://komarev.com/ghpvc/?username=Norman-GM" /> visiter, Thank you!</div>
 <div align="center"><img height="137px" src="https://readme-stats-norman-gms-projects.vercel.app/api?username=Norman-GM&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=tokyonight" /> </div>
